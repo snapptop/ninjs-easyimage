@@ -1,0 +1,2 @@
+# ninjs-easyimage
+EasyImage wrapper
